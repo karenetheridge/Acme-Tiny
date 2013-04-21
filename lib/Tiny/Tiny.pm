@@ -20,7 +20,7 @@ This module does the tiniest thing of all -- nothing!
 Given all the recent releases of C<*::Tiny> modules, I felt like I needed to
 get in on the action while there was still part of the namespace left.
 
-=for html <center><img src="https://github.com/karenetheridge/Tiny-Tiny/raw/images/tiny-tim_lg.jpg" alt="Tiny Tim" width="216" height="267"/> <img src="https://github.com/karenetheridge/Tiny-Tiny/raw/images/Elton_John_Tiny_Dancer.jpg" alt="Tiny Dancer" width="260" height="320"/></center>
+=for html <center><img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/tiny-tim_lg.jpg" alt="Tiny Tim" width="216" height="267"/> <img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" alt="Tiny Dancer" width="260" height="320"/></center>
 
 =head1 SUPPORT
 

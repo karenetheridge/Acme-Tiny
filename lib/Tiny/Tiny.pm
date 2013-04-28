@@ -38,6 +38,7 @@ including:
 * L<HTTP::Tiny>
 * L<Try::Tiny>
 * L<Role::Tiny>
+* L<Capture::Tiny>
 * L<Type::Tiny>
 
 =end :list

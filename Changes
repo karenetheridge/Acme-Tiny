@@ -2,6 +2,7 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
           - avoid shipping large jpgs
+          - fixed image scaling
 
 0.001     2013-04-21 14:25:36 PDT-0700 (Karen Etheridge)
           - Initial release.

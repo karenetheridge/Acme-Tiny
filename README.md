@@ -4,7 +4,7 @@ Tiny::Tiny - minimal minimalism
 
 # VERSION
 
-version 0.001
+version 0.002
 
 # SYNOPSIS
 
@@ -31,6 +31,7 @@ including:
 - [HTTP::Tiny](http://search.cpan.org/perldoc?HTTP::Tiny)
 - [Try::Tiny](http://search.cpan.org/perldoc?Try::Tiny)
 - [Role::Tiny](http://search.cpan.org/perldoc?Role::Tiny)
+- [Capture::Tiny](http://search.cpan.org/perldoc?Capture::Tiny)
 - [Type::Tiny](http://search.cpan.org/perldoc?Type::Tiny)
 
 # AUTHOR

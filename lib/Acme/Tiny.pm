@@ -1,6 +1,6 @@
 use strict;
 use warnings;
-package Tiny::Tiny;
+package Acme::Tiny;
 # ABSTRACT: minimal minimalism
 # vim: set ts=8 sw=4 tw=78 et :
 
@@ -11,7 +11,7 @@ __END__
 
 =head1 SYNOPSIS
 
-    use Tiny::Tiny;
+    use Acme::Tiny;
 
 =head1 DESCRIPTION
 
@@ -23,8 +23,8 @@ get in on the action while there was still part of the namespace left.
 =begin html
 
 <div style="text-align:center">
-<img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/tiny-tim_lg.jpg" title="Tiny Tim" width="227" height="280"/>
-<img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" title="Tiny Dancer" width="276" height="280"/>
+<img src="https://raw.github.com/karenetheridge/Acme-Tiny/master/images/tiny-tim_lg.jpg" title="Tiny Tim" width="227" height="280"/>
+<img src="https://raw.github.com/karenetheridge/Acme-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" title="Tiny Dancer" width="276" height="280"/>
 </div>
 
 =end html
@@ -33,8 +33,8 @@ get in on the action while there was still part of the namespace left.
 
 =for stopwords irc
 
-Bugs may be submitted through L<the RT bug tracker|https://rt.cpan.org/Public/Dist/Display.html?Name=Tiny-Tiny>
-(or L<bug-Tiny-Tiny@rt.cpan.org|mailto:bug-Tiny-Tiny@rt.cpan.org>).
+Bugs may be submitted through L<the RT bug tracker|https://rt.cpan.org/Public/Dist/Display.html?Name=Acme-Tiny>
+(or L<bug-Acme-Tiny@rt.cpan.org|mailto:bug-Acme-Tiny@rt.cpan.org>).
 I am also usually active on irc, as 'ether' at C<irc.perl.org>.
 
 =head1 SEE ALSO

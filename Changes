@@ -2,10 +2,10 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
-0.002     2013-05-12 17:37:07 PDT-0700 (Karen Etheridge)
+0.002     2013-05-13 00:37:07Z
           - avoid shipping large jpgs
           - fixed image scaling
 
-0.001     2013-04-21 14:25:36 PDT-0700 (Karen Etheridge)
+0.001     2013-04-21 21:25:36Z
           - Initial release.
 

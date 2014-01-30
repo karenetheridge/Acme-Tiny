@@ -20,8 +20,12 @@ This module does the tiniest thing of all -- nothing!
 Given all the recent releases of C<*::Tiny> modules, I felt like I needed to
 get in on the action while there was still part of the namespace left.
 
-=for html <center><img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/tiny-tim_lg.jpg" alt="Tiny Tim" width="227" height="280"/>
-<img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" alt="Tiny Dancer" width="276" height="280"/></center>
+=begin html
+
+<center><img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/tiny-tim_lg.jpg" title="Tiny Tim" width="227" height="280"/>
+<img src="https://raw.github.com/karenetheridge/Tiny-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" title="Tiny Dancer" width="276" height="280"/></center>
+
+=end html
 
 =head1 SUPPORT
 
@@ -43,6 +47,7 @@ including:
 * L<Role::Tiny>
 * L<Capture::Tiny>
 * L<Type::Tiny>
+* L<Module::Build::Tiny>
 
 =end :list
 

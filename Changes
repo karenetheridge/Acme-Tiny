@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.003     2014-01-30 05:06:53Z
           - renamed distribution from Tiny-Tiny to Acme-Tiny
 
 0.002     2013-05-13 00:37:07Z

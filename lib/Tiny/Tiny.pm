@@ -4,8 +4,7 @@ package Tiny::Tiny;
 # ABSTRACT: minimal minimalism
 # vim: set ts=8 sw=4 tw=78 et :
 
-
-1;
+'oh hai';
 __END__
 
 =pod

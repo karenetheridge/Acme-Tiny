@@ -42,15 +42,12 @@ I am also usually active on irc, as 'ether' at C<irc.perl.org>.
 There are many excellent (and legitimate) *::Tiny modules out there,
 including:
 
-=begin :list
-
+=for :list
 * L<HTTP::Tiny>
 * L<Try::Tiny>
 * L<Role::Tiny>
 * L<Capture::Tiny>
 * L<Type::Tiny>
 * L<Module::Build::Tiny>
-
-=end :list
 
 =cut

@@ -23,8 +23,8 @@ get in on the action while there was still part of the namespace left.
 =begin html
 
 <div style="text-align:center">
-<img src="https://raw.github.com/karenetheridge/Acme-Tiny/master/images/tiny-tim_lg.jpg" title="Tiny Tim" width="227" height="280"/>
-<img src="https://raw.github.com/karenetheridge/Acme-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" title="Tiny Dancer" width="276" height="280"/>
+<img src="https://raw.githubusercontent.com/karenetheridge/Acme-Tiny/master/images/tiny-tim_lg.jpg" title="Tiny Tim" width="227" height="280"/>
+<img src="https://raw.githubusercontent.com/karenetheridge/Acme-Tiny/master/images/Elton_John_Tiny_Dancer.jpg" title="Tiny Dancer" width="276" height="280"/>
 </div>
 
 =end html
